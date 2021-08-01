@@ -1,0 +1,20 @@
+---
+title: Home
+description: Welcome to my Personal Website!
+images: ["/posts/images/sample_image.jpg"]
+---
+
+Hey :wave:,
+
+I'm Ian Bog\`Ste, a former Software Engineer turned to Engineering Management.
+
+In the following pages, you will find my thoughts on various topics including, and not limited to:
+ - Technology (in general)
+ - Engineering Management
+ - Software Engineering
+ - Photography
+ - Book Reviews
+
+Thank you, for visiting!
+
+[Get to know me better](/about "Get to know me better")
