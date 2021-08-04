@@ -1,4 +1,4 @@
-baseURL = "https://main.d1trsujlhy3q8x.amplifyapp.com"
+baseURL = "https://bogste.ro"
 languageCode = "en-us"
 title = "Ian Bog`Ste's Personal Site"
 theme = "personal-web"
@@ -10,7 +10,7 @@ pygmentsUseClasses=true
 pygmentsCodeFences=true
 
 [params.intro]
-  main = "Hi, :wave: I'm Ian Bog`Ste"
+  main = "Hi, :wave:  I'm Ian Bog`Ste"
   sub = "I'm a former SDE turned to Engineering Manager"
 
 [params.main]
