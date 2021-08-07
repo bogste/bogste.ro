@@ -1,8 +1,8 @@
 baseURL = "https://www.bogste.ro"
 languageCode = "en-us"
-title = "Ian Bog`Ste's Personal Site"
+title = "Ian Bog'Ste - Personal Website"
 theme = "personal-web"
-copyright="© Ian Bog`Ste 2021-..."
+copyright="© Ian Bog'Ste 2021-..."
 googleAnalytics = ""
 enableEmoji=true
 enableRobotsTXT=true
@@ -10,8 +10,8 @@ pygmentsUseClasses=true
 pygmentsCodeFences=true
 
 [params.intro]
-  main = "Hi, :wave:  I'm Ian Bog`Ste"
-  sub = "I'm a former SDE turned to Engineering Manager"
+  main = "Hi, :wave:  I am Ian Bog'Ste"
+  sub = "A former SDE turned to Engineering Manager"
 
 [params.main]
   latestPublishHeader = "Latest Updates:"
@@ -44,7 +44,7 @@ pygmentsCodeFences=true
 [params.sidebar]
   backgroundImage = '/images/sidebar/blog_sidebar.jpg' # header background image - default "/images/default_sidebar.jpg" - Photo by Tim Marshall on Unsplash
   gradientOverlay = 'rgba(0,0,0,0.4),rgba(0,0,0,0.75)' # default: rgba(0,0,0,0.4),rgba(0,0,0,0.4)
-  logo = "/images/bogste-profile-photo.svg" # - default "/images/edna-west.jpg"
+  logo = "/images/bogste-profile-photo.png" # - default "/images/edna-west.jpg"
 
 [params.assets]
   favicon = ""
