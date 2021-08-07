@@ -1,6 +1,6 @@
 ---
 title: About
-description: About me page of Ian Bog`Ste
+description: About me page of Ian Bog'Ste
 images: ["/images/sunrise-938998_1280.jpg"]
 ---
 

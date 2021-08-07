@@ -6,9 +6,9 @@ images: ["/posts/images/sample_image.jpg"]
 
 Hey :wave:,
 
-I'm Ian Bog\`Ste, a former Software Engineer turned to Engineering Management.
+I am Ian Bog'Ste, a former Software Development Engineer (SDE) turned to Engineering Manager.
 
-In the following pages, you will find my thoughts on various topics including, and not limited to:
+In the following pages, you will find my thoughts on various topics including and not limited to:
  - Technology (in general)
  - Engineering Management
  - Software Engineering
