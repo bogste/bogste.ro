@@ -1,13 +1,17 @@
 baseURL = "https://www.bogste.ro"
 languageCode = "en-us"
-title = "Ian Bog`Ste's Personal Site"
 theme = "personal-web"
+
+title = "Ian Bog`Ste's Personal Site"
 copyright="© Ian Bog`Ste 2021-..."
-googleAnalytics = "G-YJLC0DJ1QV"
+
 enableEmoji=true
 enableRobotsTXT=true
 pygmentsUseClasses=true
 pygmentsCodeFences=true
+
+# See and Enable below [rivacy.googleAnalytics]
+googleAnalytics = "G-YJLC0DJ1QV"
 
 [params.intro]
   main = "Hi, :wave:  I'm Ian Bog`Ste"
@@ -104,10 +108,11 @@ pygmentsCodeFences=true
 
 [privacy]
   [privacy.googleAnalytics]
-    anonymizeIP = true
-    disable = true
+    anonymizeIP = false
+    disable = false
     respectDoNotTrack = true
     useSessionStorage = false
+    
   [privacy.twitter]
     disable = false
     enableDNT = true
