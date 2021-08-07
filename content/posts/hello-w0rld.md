@@ -1,14 +1,14 @@
 ---
-title: "Hello W0rld!"
-description: Getting started with personal-web
+title: "Hell0 W0rld!"
+description: Getting started with my Personal Website
 date: 2021-07-31T11:45:32+03:00
 publishDate: 2021-07-31T11:45:32+03:00
 draft: false
 ---
-{{<figure src="/images/sunrise-938998_1280.jpg" caption="Photo Credit: [Freesaly @ Pixbay](https://pixabay.com/photos/sunrise-stonehenge-ancient-sky-938998/)">}} 
+{{<figure src="/images/sunrise-938998_1280.jpg" caption="Photo Credit: [Freesally @ Pixbay](https://pixabay.com/photos/sunrise-stonehenge-ancient-sky-938998/)">}}
 
-Welcome to my Personal Website!
+Welcome! This is my first post.
 
 <!--more-->
 
-This is my first post. If you can read it and the page layout is nicely formatted, it means everything works correctly.
+If you can read this message and the page layout is nicely formatted, it means everything works correctly.
