@@ -3,7 +3,7 @@ title: "Building an online Personal / Professional presence in the Cloud (Native
 description: An article about my recent experience on establishing an Online Presence in the Cloud Native Era
 date: 2021-08-14T22:43:26+03:00
 publishDate: 2021-08-14T22:44:26+03:00
-draft: true
+draft: false
 ---
 {{<figure src="/posts/images/online-presence-in-the-cloud-era-presence-800px.jpg" caption="Photo by [eberhard 🖐 grossgasteiger](https://unsplash.com/@eberhardgross?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/_uAVHAMjGYA?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)" link="/posts/building-online-personal-or-professional-presence-cloud-native-era/#content">}}
 
