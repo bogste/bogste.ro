@@ -14,7 +14,7 @@ pygmentsCodeFences=true
 googleAnalytics = "G-YJLC0DJ1QV"
 
 [params.intro]
-  main = "Hi, :wave:  I am Ian Bog'Ste"
+  main = "Hi :wave:, I am Ian Bog'Ste"
   sub = "A former SDE turned to Engineering Manager"
 
 [params.main]
@@ -48,7 +48,7 @@ googleAnalytics = "G-YJLC0DJ1QV"
 [params.sidebar]
   backgroundImage = '/images/sidebar/blog_sidebar.jpg' # header background image - default "/images/default_sidebar.jpg" - Photo by Tim Marshall on Unsplash
   gradientOverlay = 'rgba(0,0,0,0.4),rgba(0,0,0,0.75)' # default: rgba(0,0,0,0.4),rgba(0,0,0,0.4)
-  logo = "/images/bogste-profile-photo.png" # - default "/images/edna-west.jpg"
+  logo = "/images/bogste-profile-photo-500px.png" # - default "/images/edna-west.jpg"
 
 [params.assets]
   favicon = ""
