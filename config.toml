@@ -77,14 +77,14 @@ googleAnalytics = "G-YJLC0DJ1QV"
   identifier = "about"
   name = "About me"
   title = "About me"
-  url = "/about/"
+  url = "/about/#content"
   weight = -120
 
 [[menu.main]]
   identifier = "blog"
   name = "Blog"
   title = "Blog section"
-  url = "/posts/"
+  url = "/posts/#content"
   weight = -110
 
 # [[menu.main]]
