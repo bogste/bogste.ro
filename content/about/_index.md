@@ -34,7 +34,7 @@ Here is a copy of my [Resume](/documents/2021-08-12-Resume-Bogdan-STEFAN.pdf). I
 ## Social Networking
 Below are links on how one can get ahold of me:
 
-[LinkedIn](https://www.linkedin.com/in/bogste/) | [GitHub](https://github.com/bogste) | [Keybase](https://keybase.io/b0gste) | [Twitter](https://twitter.com/b0gste)
+[LinkedIn](https://www.linkedin.com/in/bogste/) | [GitHub](https://github.com/bogste) | [Keybase](https://keybase.io/b0gste) | [Mastodon](https://mstdn.social/@b0gste) | [Twitter](https://twitter.com/b0gste)
 
 ## Privacy
 Considering your Privacy, this website does not currently use any tracking mechanisms or Cookies.
