@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/b0gste
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://bogste.ro
+  * I am b0gste (https://keybase.io/b0gste) on keybase.
+  * I have a public key ASDTjk0LvhhnzFGZuMyN3ZkS25Ed_86onW-LrvKB5fsc4Ao
+To do so, I am signing this object:
+
+{
+  "body": {
+      "key": {
+            "eldest_kid": "012065c1e4c0d41fe2da20f16d37701283c9158c068889ba9f9a225d5f64d01664200a",
+                  "host": "keybase.io",
+                        "kid": "0120d38e4d0bbe1867cc5199b8cc8ddd9912db911dffcea89d6f8baef281e5fb1ce00a",
+                              "uid": "926a4f0b6bbe2bf14880392c1905ae19",
+                                    "username": "b0gste"
+                                        },
+                                            "merkle_root": {
+                                                  "ctime": 1629105085,
+                                                        "hash": "f126f20f5ccd5e662468ab260955607d72135fbbe25a2e219af4451a22ef48ec5c97cbb404f8f74758e2f0ed95a20f74211396196a1d515ab6c42baaf53acd77",
+                                                              "hash_meta": "a11c1bad2c43e1a5fd28492b14468f0f8f53331a29530b9ed153e2673d31d707",
+                                                                    "seqno": 20573250
+                                                                        },
+                                                                            "service": {
+                                                                                  "entropy": "ItSc9bRhWSmZKm/1ErusAq8i",
+                                                                                        "hostname": "bogste.ro",
+                                                                                              "protocol": "https:"
+                                                                                                  },
+                                                                                                      "type": "web_service_binding",
+                                                                                                          "version": 2
+                                                                                                            },
+                                                                                                              "client": {
+                                                                                                                  "name": "keybase.io go client",
+                                                                                                                      "version": "5.7.0"
+                                                                                                                        },
+                                                                                                                          "ctime": 1629105126,
+                                                                                                                            "expire_in": 504576000,
+                                                                                                                              "prev": "0cae92dc49708fb08ef60374f5820cbe115e76dd826396fdb3279d5d00dd0d84",
+                                                                                                                                "seqno": 41,
+                                                                                                                                  "tag": "signature"
+                                                                                                                                  }
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg045NC74YZ8xRmbjMjd2ZEtuRHf/OqJ1vi67ygeX7HOAKp3BheWxvYWTESpcCKcQgDK6S3Elwj7CO9gN09YIMvhFedt2CY5b9syedXQDdDYTEICSGnWCgzHVPY77w0OJliLDwKIm1K7UQWHrDmps0hiMTAgHCo3NpZ8RAqGgScoTQtyVQRLK43Zmb1tFO4fn8gayGssbF0kn3dhqlwPQjmBUWJhUttW8VUOZV7rpLRcf3MbZnf5rgFn+gBqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIELEWAFKSkATmDEQZpOosHBYwWfmr8pWt69rizlN5tvjo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/b0gste
+
+==================================================================
