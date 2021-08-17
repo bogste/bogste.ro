@@ -1,7 +1,7 @@
 ---
 title: About
 description: About me page of Ian Bog'Ste
-images: ["/images/sunrise-938998_1280.jpg"]
+images: ["/about/images/about-me.jpg"]
 ---
 
 {{< figure src="/about/images/about-me.jpg" caption="Photo Credit: Lucia B." >}}
@@ -48,4 +48,6 @@ In other words, if your Browser (or any Privacy Extension installed) sets this D
 
 Profile (Vector) Photo courtesy of: [16 Personalities](https://www.16personalities.com)
 
-Made with :heart: | Powered by [Hugo](https://gohugo.io/) and the [Personal Web](https://github.com/bjacquemet/personal-web) theme. Icons come from the great [Font Awesome](https://fontawesome.com/license) library.
+Made with :heart: | Powered by [Hugo](https://gohugo.io/) and the [Personal Web](https://github.com/bjacquemet/personal-web) theme.
+
+Icons come from the great [Font Awesome](https://fontawesome.com/license) library. Also using [Blog](https://icons8.com/icon/18911/blog) icon by [Icons8](https://icons8.com).

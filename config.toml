@@ -51,7 +51,7 @@ googleAnalytics = "G-YJLC0DJ1QV"
   logo = "/images/bogste-profile-photo-500px.png" # - default "/images/edna-west.jpg"
 
 [params.assets]
-  favicon = ""
+  favicon = "/favicon.ico"
   customCSS = ""
 
 [params.social]
