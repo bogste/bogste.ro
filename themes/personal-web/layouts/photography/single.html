@@ -3,10 +3,11 @@
 <h1>{{ .Title }}</h1>
 <div class="tags">
   {{ partial "photography/tags" .}}
+  <br />
 </div>
 
-<img title="{{.Title}}" alt="{{.Title}}" src="/photography/{{ .Params.Thumbnail }}" />
-
+<img title="{{.Title}}" alt="{{.Title}}" src="{{ .Params.Thumbnail }}" />
+<br />
 {{ .Content }}
 
 <!-- {{ if .Params.testimonial }}
