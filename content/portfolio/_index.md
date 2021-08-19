@@ -1,6 +1,6 @@
 ---
-title: Programming Projects
-description: 'Programming Projects Section'
+title: Projects
+description: 'Portfolio Projects Section'
 ---
 
-You'll add here a general introduction of your Programming Projects portfolio page.
+You'll find below an aggregation of my recent Projects.

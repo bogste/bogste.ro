@@ -4,3 +4,6 @@ description: 'Photography Projects Section'
 ---
 
 You'll find below an aggregation of my Photography Projects.
+
+
+*Order of Most Recent first:*
