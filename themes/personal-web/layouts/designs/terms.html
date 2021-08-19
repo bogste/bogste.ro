@@ -1,6 +1,7 @@
 {{ partial "header" .}}
 
   {{ .Content }}
+  <br />
   <ul id="all-tags">
     {{ range $name, $taxonomy := .Site.Taxonomies.designs }}
         {{ with $.Site.GetPage (printf "/designs/%s" $name) }}
