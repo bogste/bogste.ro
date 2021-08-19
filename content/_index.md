@@ -17,4 +17,4 @@ In the following pages, you will find my thoughts on various topics including an
 
 Thank you, for visiting!
 
-[Get to know me better](/about/#content "Get to know me better")
+[Get to know me better](/about/#content)

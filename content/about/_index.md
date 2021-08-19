@@ -1,5 +1,5 @@
 ---
-title: About
+title: About me
 description: About me page of Ian Bog'Ste
 images: ["/about/images/about-me.jpg"]
 ---
@@ -17,7 +17,7 @@ Recently, I have passionately engaged in:
  - ii.) building High-Performance Teams for Cloud Engineering, and
  - iii.) overseeing and supporting state-of-the-art AWS (EKS) and Azure (AKS) Kubernetes and Microservices deployments using [Deloitte's Alpha Platform](https://www2.deloitte.com/uk/en/pages/financial-services/solutions/alphaplatform.html).
 
-Previously, I was engaged (multi-yearly) in enabling Nearshore Delivery for the same Employer, focusing on e-Commerce implementations using SAP Commerce Cloud.
+Previously, I was engaged (multi-yearly) in enabling Nearshore Delivery for the same Employer, focusing on e-Commerce implementations using SAP Commerce Cloud. If you’re curious about my full Work Experience, have a peek at my *Professional Experience* section below.
 
 Passionate about Programming, Science, Technology (in general) and everything Internet-related.
 
