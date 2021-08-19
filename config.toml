@@ -31,7 +31,7 @@ googleAnalytics = "G-YJLC0DJ1QV"
   breadcrumb = true
   accentColor = "#FD3519"
   mainSections = ['posts'] # values: ['posts', 'photography', 'portfolio'] only accept one section, to be displayed below in Home and 404
-  secondarySections = ['none']
+  secondarySections = ['photography']
 
 [params.notFound]
   gopher = "/images/gopher.png" # checkout https://gopherize.me/
@@ -88,6 +88,13 @@ googleAnalytics = "G-YJLC0DJ1QV"
   weight = -150
 
   [[menu.main]]
+    identifier = "navmenu-photography"
+    name = "Photography"
+    title = "Navigate to my Photography Projects portfolio"
+    url = "/photography/#content"
+    weight = -130
+
+  [[menu.main]]
     identifier = "navmenu-about-page"
     name = "About me"
     title = "Navigate to About me page"
@@ -100,13 +107,7 @@ googleAnalytics = "G-YJLC0DJ1QV"
 #   title = "Navigate to my Projects portfolio"
 #   url = "/portfolio/"
 #   weight = -100
-#
-# [[menu.main]]
-#   identifier = "navmenu-photography"
-#   name = "Photography"
-#   title = "Navigate to my Photography Projects portfolio"
-#   url = "/photography/"
-#   weight = -90
+
 
 [sitemap]
   changefreq = "monthly"
