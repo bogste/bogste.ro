@@ -1,8 +1,26 @@
 {{ partial "header" .}}
 
-<h2>{{ .Data.Term | humanize }}</h2>
-{{ range .Data.Pages }}
-    {{ partial "portfolio/item" .}}
+<h2>Tagged: {{ .Data.Term | humanize }}</h2>
+<!-- Photography Listings -->
+<h3>Photography: </h3>
+{{ range $eachPage := .Data.Pages }}
+    {{ if eq $eachPage.Section "photography" }}
+      {{ partial "photography/item" .}}
+    {{ end }}
+{{ end }}
+<!-- Project Listings  -->
+<h3>Projects: </h3>
+{{ range $eachPage := .Data.Pages }}
+    {{ if eq $eachPage.Section "portfolio" }}
+      {{ partial "portfolio/item" .}}
+    {{ end }}
+{{ end }}
+<!-- Article Listings -->
+<h3>Article(s): </h3>
+{{ range $eachPage := .Data.Pages }}
+    {{ if eq $eachPage.Section "posts" }}
+      {{ partial "post/item" .}}
+    {{ end }}
 {{ end }}
 
 {{ partial "footer" .}}
