@@ -2,11 +2,12 @@
 title: Sample project
 description: This is the description of our sample project
 date: "2019-05-02T19:47:09+02:00"
+publishDate: "2099-01-01T00:00:00+03:00"
+draft: true
 jobDate: 2019
 work: [design, architecture]
-techs: [javascript, D3]
 designs: [Photoshop]
-thumbnail: sample-project/sample.jpg
+thumbnail: /portfolio/sample-project/sample.jpg
 projectUrl: https://www.sampleorganization.org
 testimonial:
   name: John Doe
