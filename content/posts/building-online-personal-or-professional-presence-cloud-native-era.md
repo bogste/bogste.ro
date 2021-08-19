@@ -13,7 +13,7 @@ This article is intended to share my perspective and recent experience on establ
 
 I will try to keep things as general as possible, with the hopes that this text will *stand the test of time*, only later on being specific with examples as to put some practice behind the upcoming shared experience. A fair majority of examples will be related to Amazon's AWS Cloud (as this is where the server and setup behind this article is hosted), but the general principles can be transported/reused in a Cloud agnostic manner, with one having to adjust to a specific Cloud Service Provider's (CSP) lingo or Services Offering. More on this below.
 
-:information_source: *Disclaimer: I have no affiliation with Amazon AWS, Microsoft Azure or Google Cloud Platform and this article is in no way intended as advertising towards any of them. However, do note that links may include Referral IDs such as to help, perhaps, keep Hosting Costs down for the resources you find on this website.*
+> :information_source: *Disclaimer: I have no affiliation with Amazon AWS, Microsoft Azure or Google Cloud Platform and this article is in no way intended as advertising towards any of them. However, do note that links may include Referral IDs such as to help, perhaps, keep Hosting Costs down for the resources you find on this website.*
 
 ### Considerations
 
