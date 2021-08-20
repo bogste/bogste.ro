@@ -29,7 +29,7 @@
 {{ if .Params.projectUrl }}
   <div class="photography-tags">
     {{ partial "svg" (dict "iconName" "hyperlink" "size" "18px")}}
-    <a target="_blank" href="{{.Params.projectUrl}}">{{.Params.projectUrl}}</a>
+    <a target="_blank" href="{{.Params.projectUrl}}#content">{{.Params.projectUrl}}</a>
   </div>
 {{ end }}
 
