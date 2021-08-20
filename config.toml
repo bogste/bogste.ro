@@ -18,7 +18,7 @@ googleAnalytics = "G-YJLC0DJ1QV"
   sub = "A former SDE turned to Engineering Manager"
 
 [params.main]
-  latestPublishHeader = "Latest Updates:"
+  latestPublishHeader = "Latest Updates"
 
 [taxonomies]
   design = "designs"
