@@ -23,7 +23,7 @@ Returning later during Sunset one evening, in early August, I took a few shots o
 
 {{<figure src="/photography/lone-tree-in-the-field/images/DSC_2427_800px.jpg" caption="Horizontal: Lone Tree in the Field">}}
 
-> :information_source: *Disclaimer: I have no affiliation with Skylum and this article is in no way intended as advertising towards them. However, do note that links may include Referral IDs such as to help, perhaps, keep Hosting Costs down for the resources you find on this website. Using these links to buy Luminar will offer you at least a 10 EUR/USD discount on the List Price.*
+> :information_source: *Disclaimer: I have no affiliation with Skylum and this article is in no way intended as advertising towards them. However, do note that links may include Referral IDs such as to help, perhaps, keep Hosting Costs down for the resources you find on this website. Using these links to buy Luminar by default you will be offered a discount on the usual List Price. Make sure to use the `LUMINAR-FRIEND` code at Checkout, for a guaranteed 10 EUR/USD voucher!*
 
 Using Skylum's [Luminar AI](https://skylum.grsm.io/bogste) I have tried to add more to the weight to their simplicity, by playing with colours and light. These are the results I was most happy with at the time:
 
