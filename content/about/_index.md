@@ -37,7 +37,7 @@ Below are links on how one can get ahold of me:
 [LinkedIn](https://www.linkedin.com/in/bogste/) | [GitHub](https://github.com/bogste) | [Keybase](https://keybase.io/b0gste) | [Mastodon](https://mstdn.social/@b0gste) | [Twitter](https://twitter.com/b0gste)
 
 ## Privacy
-Considering your Privacy, this website does not currently use any tracking mechanisms or Cookies.
+Considering your Privacy, this website does not currently use any tracking mechanisms or Cookies. Making full use of [Hugo and the General Data Protection Regulation (GDPR)](https://gohugo.io/about/hugo-and-gdpr/) built-in settings.
 
 Google Analytics (GA) is generally employed to get a grasp about my Audience, but its activation is mindful of the Do-Not-Track (`DNT`) Standard flag in your Browser.
 
@@ -50,4 +50,4 @@ Profile (Vector) Photo courtesy of: [16 Personalities](https://www.16personaliti
 
 Made with :heart: | Powered by [Hugo](https://gohugo.io/) and the [Personal Web](https://github.com/bjacquemet/personal-web) theme.
 
-Icons come from the great [Font Awesome](https://fontawesome.com/license) library. Also using [Blog](https://icons8.com/icon/18911/blog) icon by [Icons8](https://icons8.com).
+Some Icons come from the great [Font Awesome](https://fontawesome.com/license) library. Also using [Blog](https://icons8.com/icon/18911/blog) and  [Parchment](https://icons8.com/icon/36034/parchment) Icons by [Icons8](https://icons8.com).
