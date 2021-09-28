@@ -8,15 +8,27 @@
 <h2>{{ .Site.Params.main.latestPublishHeader | default "My Latest Job" }}</h2>
 
   {{ $pages := where site.RegularPages "Type" "in" .Site.Params.mainSections }}
-  {{ range first 1 $pages }}
+  {{ if in .Site.Params.mainSections "posts" }}
+    <h4>My Thoughts:</h4>
+  {{ end }}
+
+  {{ if in .Site.Params.mainSections "photography" }}
+    <h4>My Photography:</h4>
+  {{ end }}
+
+  {{ if in .Site.Params.mainSections "portfolio" }}
+    <h4>My Projects:</h4>
+  {{ end }}
+
+  {{ range first 3 $pages }}
     {{ if in .Site.Params.mainSections "portfolio" }}
       <h4>My Projects:</h4>
       {{ partial "portfolio/item" .}}
     {{ else if in .Site.Params.mainSections "photography" }}
-      <h4>My Photography projects:</h4>
+
       {{ partial "photography/item" .}}
     {{ else if in .Site.Params.mainSections "posts" }}
-      <h4>My Thoughts on:</h4>
+
       {{ partial "post/item" .}}
     {{ end }}
   {{ end }}
@@ -24,15 +36,25 @@
 <br />
 
   {{ $pages := where site.RegularPages "Type" "in" .Site.Params.secondarySections }}
-  {{ range first 1 $pages }}
+
+  {{ if in .Site.Params.secondarySections "posts" }}
+    <h4>My Thoughts:</h4>
+  {{ end }}
+
+  {{ if in .Site.Params.secondarySections "photography" }}
+    <h4>My Photography:</h4>
+  {{ end }}
+
+  {{ if in .Site.Params.secondarySections "portfolio" }}
+    <h4>My Projects:</h4>
+  {{ end }}
+
+  {{ range first 2 $pages }}
     {{ if in .Site.Params.secondarySections "portfolio" }}
-      <h4>My Projects:</h4>
       {{ partial "portfolio/item" .}}
     {{ else if in .Site.Params.secondarySections "photography" }}
-      <h4>My Photography:</h4>
       {{ partial "photography/item" .}}
     {{ else if in .Site.Params.secondarySections "posts" }}
-      <h4>My Thoughts on:</h4>
       {{ partial "post/item" .}}
     {{ end }}
   {{ end }}
