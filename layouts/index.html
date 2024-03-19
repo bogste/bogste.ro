@@ -1,0 +1,68 @@
+{{ partial "header" .}}
+
+<!-- <h1>{{ .Title | markdownify }}</h1> -->
+<h1>  </h1>
+
+{{ .Content }}
+
+<h2>{{ .Site.Params.main.latestPublishHeader | default "My Latest Job" }}</h2>
+
+  {{ $categoryPostsDesc := "My Thoughts on:" }}
+  {{ $categoryPhotographyDesc := "My Photography about:" }}
+  {{ $categoryPortfolioDesc := "My Projects for:" }}
+
+  {{ $pages := where site.RegularPages "Type" "in" .Site.Params.mainSections }}
+  
+  {{ if in .Site.Params.mainSections "posts" }}
+    <h4>{{ $categoryPostsDesc }}</h4>
+  {{ end }}
+
+  {{ if in .Site.Params.mainSections "photography" }}
+    <h4>{{ $categoryPhotographyDesc }}</h4>
+  {{ end }}
+
+  {{ if in .Site.Params.mainSections "portfolio" }}
+    <h4>{{ $categoryPortfolioDesc }}</h4>
+  {{ end }}
+
+  {{ range first 4 $pages }}
+    {{ if in .Site.Params.mainSections "portfolio" }}
+      
+      {{ partial "portfolio/item" .}}
+    {{ else if in .Site.Params.mainSections "photography" }}
+
+      {{ partial "photography/item" .}}
+    {{ else if in .Site.Params.mainSections "posts" }}
+
+      {{ partial "post/item" .}}
+    {{ end }}
+  {{ end }}
+
+<br />
+
+  {{ $pages := where site.RegularPages "Type" "in" .Site.Params.secondarySections }}
+
+  {{ if in .Site.Params.secondarySections "posts" }}
+    <h4>{{ $categoryPostsDesc }}</h4>
+  {{ end }}
+
+  {{ if in .Site.Params.secondarySections "photography" }}
+    <h4>{{ $categoryPhotographyDesc }}</h4>
+  {{ end }}
+
+  {{ if in .Site.Params.secondarySections "portfolio" }}
+    <h4>$categoryPortfolioDesc</h4>
+  {{ end }}
+
+  {{ range first 2 $pages }}
+    {{ if in .Site.Params.secondarySections "portfolio" }}
+      {{ partial "portfolio/item" .}}
+    {{ else if in .Site.Params.secondarySections "photography" }}
+      {{ partial "photography/item" .}}
+    {{ else if in .Site.Params.secondarySections "posts" }}
+      {{ partial "post/item" .}}
+    {{ end }}
+  {{ end }}
+
+
+{{ partial "footer" .}}
