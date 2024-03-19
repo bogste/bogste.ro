@@ -3,18 +3,19 @@ title: Home
 description: Welcome to my Personal Website!
 images: ["/posts/images/sample_image.jpg"]
 ---
+:wave: **Welcome,**
 
-Hey :wave:,
+I am *Ian Bog’Ste*, an experienced professional who transitioned from a role of Software Development Engineer (SDE) to that of an Engineering Manager (SDEM).
 
-I am Ian Bog'Ste, a former Software Development Engineer (SDE) turned to Engineering Manager.
+Within these pages, I share my insights and perspectives on a diverse range of subjects, such as:
 
-In the following pages, you will find my thoughts on various topics including and not limited to:
- - Technology (in general)
- - Engineering Management
- - Software Engineering
- - Photography
- - Book Reviews
+- The broader landscape of Technology
+- The evolving field of Artificial Intelligence (AI)
+- The nuances of efficient Engineering Management
+- Trends and best practices in Software Engineering
+- Art and techniques of (Landscape) Photography
+- Stuff on Books, Video Games and my Hobbies
 
-Thank you, for visiting!
+I appreciate your interest and thank you for stopping by.
 
 [Get to know me better](/about/#content)
