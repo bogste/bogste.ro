@@ -10,7 +10,7 @@ enableRobotsTXT=true
 pygmentsUseClasses=true
 pygmentsCodeFences=true
 
-# See and Enable below [rivacy.googleAnalytics]
+# See and Enable below [privacy.googleAnalytics]
 googleAnalytics = "G-YJLC0DJ1QV"
 
 [params.intro]
@@ -41,7 +41,7 @@ googleAnalytics = "G-YJLC0DJ1QV"
 [params.sections]
   # Define how your sections will be called
   # when automatically pulled. For instance in the 404 page
-  post = "article"
+  posts = "article(s)"
   portfolio = "project"
   photography = "photography project"
 
@@ -119,7 +119,7 @@ googleAnalytics = "G-YJLC0DJ1QV"
     anonymizeIP = false
     disable = false
     respectDoNotTrack = true
-    useSessionStorage = false
+    useSessionStorage = true
 
   [privacy.twitter]
     disable = false
