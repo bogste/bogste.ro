@@ -3,19 +3,25 @@ title: "Crafts of the Future: A Responsible AI Framework for B2B Services"
 description: In an era where Artificial Intelligence (AI) is not just an asset but a necessity, businesses are rapidly integrating Generative AI technologies to stay ahead. This article delves into the emergence of Generative AI and its burgeoning role in Business-to-Business (B2B) Services, proposing a robust Framework for its responsible and ethical use.
 date: 2024-03-18T22:53:44+02:00
 publishDate: 2024-03-18T22:53:44+02:00
-draft: true
+draft: false
 ---
 {{<figure src="/posts/images/crafts-of-the-future/crafting-the-future-of-business-with-ai-cover.jpg" caption="Generated with DALL-E AI on [Microsoft Copilot Designer](https://copilot.microsoft.com/images/create/an-image-of-a-dashboard-screen2c-using-800-x-546-si/1-65f98a49e68f4e25848d3df3c060f24b?id=a3lShp4zFKxCPNfTa75E%2Bw%3D%3D&view=detailv2&idpp=genimg&idpclose=1&thid=OIG3.B5YdcFE4EGRx9RZY1r8I&form=SYDBIC)" link="/posts/crafts-of-the-future/#content">}}
 
-As Generative AI continues to revolutionize the landscape of day-to-day Users, it becomes imperative to establish a Framework that ensures its ethical and effective deployment under B2B Services too. If employed right, AI can be a game-changer for any Business regardless of size or maturity.
+As Generative AI continues to revolutionize the landscape of day-to-day Users, it becomes imperative to establish a Framework that ensures its ethical and effective deployment under B2B Services too. If employed right, AI can be a game-changer for any Business regardless of size or maturity. This article delves into the emergence of Generative AI and its burgeoning role in Business-to-Business (B2B) Services, proposing a robust Framework for its responsible use for Service Providers.
 
 <!--more-->
 
-In an era where Artificial Intelligence (AI) is not just an asset but a necessity, Businesses are rapidly integrating Generative AI technologies to stay ahead. This article delves into the emergence of Generative AI and its burgeoning role in Business-to-Business (B2B) Services, proposing a robust Framework for its responsible use.
+It is widely believed that ['AI will significantly accelerate economic growth over time by making workers far more efficient'](https://www.cnn.com/2024/03/19/business/ai-jobs-economy-productivity/index.html). This, of course, will mean that Businesses will see increased efficiency as well. As such, in an era where Artificial Intelligence (AI) is quickly becoming not just an asset but a necessity, Businesses are rapidly integrating Generative AI technologies to stay ahead.
 
-## The 5 Principles
+In a general sense, there are two (2) emerging trends: *Responsible and Trustable AI*. In other words, its use is to be Ethical (that is, to be morally correctly employed in Products and Services such as not to be discriminative towards Humans), and Explainable (such that Humans can always grasp the chain of events that may have led to an outcome, when prompted). These, in turn, are broken down further, to serve as better guidance. These are listed in Figure 1.
 
-This article outlines five (5) key Principles that should underpin any Strategy for Responsible AI as it intersects with a B2B context:
+{{<figure src="/posts/images/crafts-of-the-future/responsible-ai-principles.png" caption="Figure 1. Responsible and Trusted AI Principles [as defined by Microsoft](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/innovate/best-practices/trusted-ai)">}} 
+
+However, since the most intensive activity regarding AI "exploitation" happens for Businesses, as they may also have huge Capital for this, it is my consideration that there needs to be a commonly agreeable "standard" for Business-to-Business (B2B) Services. To get us there, I propose the following Principles that would serve as a foundation.
+
+## The 5 Principles (for AI when deployed by Service Providers)
+
+Here are five (5) Key Principles that should underpin any Strategy for Responsible AI as it intersects with and enables a B2B context:
 
 1. **Interoperability**: The cornerstone of any Generative AI application in B2B services is its ability to seamlessly integrate with existing systems. By designing AI that can communicate and exchange information with diverse business platforms, we foster an ecosystem of collaboration for the Users, and efficiency by leveraging Automation.
     
