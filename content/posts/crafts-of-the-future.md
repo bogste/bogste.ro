@@ -13,13 +13,13 @@ As Generative AI continues to revolutionize the landscape of day-to-day Users, i
 
 It is widely believed that ['AI will significantly accelerate economic growth over time by making workers far more efficient'](https://www.cnn.com/2024/03/19/business/ai-jobs-economy-productivity/index.html). This, of course, will mean that Businesses will see increased efficiency as well. As such, in an era where Artificial Intelligence (AI) is quickly becoming not just an asset but a necessity, Businesses are rapidly integrating Generative AI technologies to stay ahead.
 
-In a general sense, there are two (2) emerging trends: *Responsible and Trustable AI*. In other words, its use is to be Ethical (that is, to be morally correctly employed in Products and Services such as not to be discriminative towards Humans), and Explainable (such that Humans can always grasp the chain of events that may have led to an outcome, when prompted). These, in turn, are broken down further, to serve as better guidance. These are listed in Figure 1.
+In a general sense, there are two (2) emerging trends: *Responsible and Trustable AI*. In other words, its use is to be Ethical (that is, to be morally and correctly employed in Products and Services such as not to be discriminative towards Humans), and Explainable (such that Humans can always grasp the chain of events that may have led to an outcome, whenever prompted). Things, in turn, are broken down further to serve as specific guidance. These are listed in Figure 1.
 
 {{<figure src="/posts/images/crafts-of-the-future/responsible-ai-principles.png" caption="Figure 1. Responsible and Trusted AI Principles [as defined by Microsoft](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/innovate/best-practices/trusted-ai)">}} 
 
 However, since the most intensive activity regarding AI "exploitation" happens for Businesses, as they may also have huge Capital for this, it is my consideration that there needs to be a commonly agreeable "standard" for Business-to-Business (B2B) Services. To get us there, I propose the following Principles that would serve as a foundation.
 
-## The 5 Principles (for AI when deployed by Service Providers)
+## The 5 Principles (for AI usage when deployed by Service Providers)
 
 Here are five (5) Key Principles that should underpin any Strategy for Responsible AI as it intersects with and enables a B2B context:
 
@@ -36,7 +36,7 @@ Here are five (5) Key Principles that should underpin any Strategy for Responsib
 
 Following these key principles, let us examine how Generative AI can be specifically applied in two distinct industries within the B2B Services sector:
 
-1. **Marketing and Sales**: In the realm of B2B marketing, generative AI is transforming how businesses engage with their clients. [In sales, generative AI is used for automated lead scoring and predictive analytics, helping sales teams prioritize their efforts and increase ROI](https://demandscience.com/resources/blog/harnessing-the-power-of-generative-ai-in-b2b-sales/).
+1. **Marketing and Sales**: In the realm of B2B marketing, Generative AI is transforming how businesses engage with their clients. [In sales, generative AI is used for automated lead scoring and predictive analytics, helping sales teams prioritize their efforts and increase ROI](https://demandscience.com/resources/blog/harnessing-the-power-of-generative-ai-in-b2b-sales/).
     
 2. **Healthcare**: The healthcare industry stands to benefit significantly from Generative AI through personalized patient care plans and predictive diagnostics. [AI can analyze vast amounts of patient data to generate insights that lead to better health outcomes and streamlined operations for Healthcare providers](https://cloudely.com/generative-ai-applications-for-b2b-businesses/).
 
@@ -49,7 +49,7 @@ Particularly focusing on Cloud Engineering, Managed and Support Services, we can
 
 1. **Cloud Engineering**: Generative AI is playing a pivotal role in automating Cloud Infrastructure design and management. [For example, AWS Managed Services (AMS) utilizes AI to provide operational excellence in the cloud, offering services like incident management, security, patch, backup, and cost optimization](https://aws.amazon.com/managed-services/). This not only enhances security and efficiency but also reduces operational costs by an average of 10-15% annually.
     
-2. **Support Services**: AI-driven support services are revolutionizing the way managed services respond to client needs. [For instance, AI-powered Chatbots provide customer support that understands and responds to user intent, improving customer satisfaction and efficiency](https://www.forbes.com/sites/theyec/2023/04/17/generative-ai-for-b2b-marketing-use-cases-and-challenges/). [A case study from Trianz highlights the use of AI for routine tasks such as EBS snapshot backups for disaster recovery, managing role-based access controls, and log aggregation and reporting](https://www.trianz.com/experiences/aws-cloud-managed-services-and-support). These AI-powered processes ensure high availability and resiliency, crucial for maintaining uninterrupted business operations.
+2. **Managed Services Support**: AI-driven support services are revolutionizing the way managed services respond to client needs. [For instance, AI-powered Chatbots provide customer support that understands and responds to user intent, improving customer satisfaction and efficiency](https://www.forbes.com/sites/theyec/2023/04/17/generative-ai-for-b2b-marketing-use-cases-and-challenges/). [A case study from Trianz highlights the use of AI for routine tasks such as EBS snapshot backups for disaster recovery, managing role-based access controls, and log aggregation and reporting](https://www.trianz.com/experiences/aws-cloud-managed-services-and-support). These AI-powered processes ensure high availability and resiliency, crucial for maintaining uninterrupted business operations.
     
 
 Above examples, while by no means exhaustive, underscore the transformative impact of Generative AI in Managed Services, aligning with the *principles of interoperability, scalability, value alignment, industry-specific compliance, and continuous improvement*.
