@@ -3,7 +3,8 @@ languageCode = "en-us"
 theme = "personal-web"
 
 title = "Ian Bog'Ste - Personal Website"
-copyright="© Ian Bog'Ste 2021-..."
+copyright="© Ian Bog'Ste 2021- .."
+footerText="Disclaimer: Unless explicitly stated the views, opinions, and content presented here are the Author’s own and do not reflect the stance of their Employer on any of the subjects being discussed."
 
 enableEmoji=true
 enableRobotsTXT=true
@@ -36,7 +37,7 @@ googleAnalytics = "G-YJLC0DJ1QV"
 [params.notFound]
   gopher = "/images/gopher.png" # checkout https://gopherize.me/
   h1 = 'Bummer!'
-  p = "It seems that this page doesn't exist."
+  p = "It seems that this Page doesn't exist."
 
 [params.sections]
   # Define how your sections will be called
@@ -67,7 +68,7 @@ googleAnalytics = "G-YJLC0DJ1QV"
   #gitlab = "https://gitlab.com/"
 
 [params.contact]
-  email = "ian.bogste@keemail.me"
+  email = "ian.bogste[-at-]keemail.me"
   text= "Email me!" # text of the contact link in the sidebar. If email params.contact.email is defined
 
 

@@ -1,4 +1,4 @@
 /themes/personal-web/resources
 /public
 /.obsidian
-*.geany
+/content/.obsidian
