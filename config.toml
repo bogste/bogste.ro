@@ -3,8 +3,7 @@ languageCode = "en-us"
 theme = "personal-web"
 
 title = "Ian Bog'Ste - Personal Website"
-copyright="© Ian Bog'Ste 2021- .."
-footerText="Disclaimer: Unless explicitly stated the views, opinions, and content presented here are the Author’s own and do not reflect the stance of their Employer on any of the subjects being discussed."
+copyright = "© Ian Bog'Ste 2021- .."
 
 enableEmoji=true
 enableRobotsTXT=true
@@ -13,13 +12,6 @@ pygmentsCodeFences=true
 
 # See and Enable below [privacy.googleAnalytics]
 googleAnalytics = "G-YJLC0DJ1QV"
-
-[params.intro]
-  main = "Hi :wave:, I am Ian Bog'Ste"
-  sub = "A former SDE turned to Engineering Manager"
-
-[params.main]
-  latestPublishHeader = "Latest Updates"
 
 [taxonomies]
   design = "designs"
@@ -33,6 +25,14 @@ googleAnalytics = "G-YJLC0DJ1QV"
   accentColor = "#FD3519"
   mainSections = ['posts'] # values: ['posts', 'photography', 'portfolio'] only accept one section, to be displayed below in Home and 404
   secondarySections = ['photography']
+  footerText = "Disclaimer: Unless explicitly stated the views, opinions, and content presented here are the Author’s own and do not reflect the stance of their Employer on any of the subjects being discussed."
+
+[params.intro]
+  main = "Hi :wave:, I am Ian Bog'Ste"
+  sub = "A former SDE turned to Engineering Manager"
+
+[params.main]
+  latestPublishHeader = "Latest Updates"
 
 [params.notFound]
   gopher = "/images/gopher.png" # checkout https://gopherize.me/
