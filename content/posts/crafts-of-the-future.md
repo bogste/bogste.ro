@@ -67,13 +67,13 @@ As we embrace the transformative impact of Generative AI in Managed Services, it
 - **Operational Transparency**: Providing [explainability](https://c3.ai/glossary/machine-learning/explainability/) features for AI decisions.
 - **Regulatory Compliance**: Designing AI systems that comply with industry-specific laws and guidelines.
 
-These ethical considerations are integrated into the framework of Generative AI deployment in Managed Services, aligning with the principles of interoperability, scalability, value alignment, industry-specific compliance, and continuous improvement. By adhering to these guidelines, businesses can leverage the power of AI responsibly, fostering innovation that is conscientious and sustainable.
+These ethical considerations are integrated into the Framework described above and can be used to govern Generative AI deployment in Managed Services, while aligning with the principles of *interoperability, scalability, value alignment, industry-specific compliance, and continuous improvement*. By adhering to these guidelines, businesses can leverage the power of AI responsibly, fostering innovation that is conscientious and sustainable.
 
 ## Further discussion
 
-Building a comprehensive Framework for the responsible use of Generative AI in B2B Services is an ongoing process that requires continuous refinement. Here are three future topics of discussion or research that could further enhance the Framework:
+Building a comprehensive Framework for the responsible use of Generative AI in B2B Services is an ongoing process that requires continuous refinement. Here are three (3) future topics of discussion or research that could further enhance the Framework:
 
-1. **AI Explainability in Complex Systems**: As AI systems become more complex, ensuring their decisions are understandable to end-users remains a challenge. [Future research could focus on developing standards and techniques for explainability in AI, particularly in scenarios involving high-stakes decision-making](https://blog.research.google/2023/01/google-research-2022-beyond-responsible.html?m=1).
+1. **AI Explainability *in Complex Systems***: As AI systems become more complex, ensuring their decisions are understandable to end-users remains a challenge. [Future research could focus on developing standards and techniques for explainability in AI, particularly in scenarios involving high-stakes decision-making](https://blog.research.google/2023/01/google-research-2022-beyond-responsible.html?m=1).
     
 2. **Impact of AI on Employment and Skill Development**: Regarding Social Benefits, the deployment of AI in managed services will inevitably change the Jobs landscape. [It’s important to explore how AI can augment human work without causing significant job displacement, and how to upskill the workforce to prepare for an AI-integrated future](https://www.ibm.com/blog/artificial-intelligence-trends/).
     
