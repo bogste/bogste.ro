@@ -29,7 +29,7 @@ googleAnalytics = "G-YJLC0DJ1QV"
 
 [params.intro]
   main = "Hi :wave:, I am Ian Bog'Ste"
-  sub = "A former SDE turned to Engineering Manager"
+  sub = "Evolving beyond Code: Tales about my Journey from Software Development to Engineering Leadership."
 
 [params.main]
   latestPublishHeader = "Latest Updates"
