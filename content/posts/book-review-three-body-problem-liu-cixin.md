@@ -8,12 +8,15 @@ draft: false
 
 Being an avid *Sy-Fy* Reader and having enjoyed long chains of inter-related storylines (such as the *Robot, Galactic Empire and Foundation* Series of Isaac Asimov and *A Time Odyssey* Series by Arthur C. Clarke) it all came as a nice surprise when I found out about this first, more recent, Novel of the *Remembrance of Earth's Past* saga from Author Liu Cixin.
 
-{{<figure src="/posts/images/remembrance-of-earths-past/cixin-liu-remembrance-earths-past-1-three-body-problem.jpg" caption="Artwork by Stephan Martinière" link="/posts/book-review-three-body-problem-liu-cixin/#content" >}}
+{{<figure src="/posts/images/books/reviews/remembrance-of-earths-past/cixin-liu-remembrance-earths-past-1-three-body-problem.jpg" caption="Artwork by Stephan Martinière" link="/posts/book-review-three-body-problem-liu-cixin/#content" >}}
 
 <!--more-->
 
 #### **_The Three-Body Problem_** (Remembrance of Earth's Past #1) by Liu Cixin
-[{{<figure class="book-rating" src="/posts/images/books/book-rating-parchment.png">}} {{<figure class="book-rating" src="/posts/images/books/book-rating-parchment.png">}} {{<figure class="book-rating" src="/posts/images/books/book-rating-parchment.png">}} {{<figure class="book-rating" src="/posts/images/books/book-rating-parchment.png">}} {{<figure class="book-rating" src="/posts/images/books/book-rating-parchment-fadeout.png">}} (How Books are rated?)](/posts/about-my-book-reviews#content) -- **Genre**: Science Fiction
+[
+	{{<figure class="book-rating" src="/posts/images/books/book-rating-parchment.png">}} {{<figure class="book-rating" src="/posts/images/books/book-rating-parchment.png">}} {{<figure class="book-rating" src="/posts/images/books/book-rating-parchment.png">}} {{<figure class="book-rating" src="/posts/images/books/book-rating-parchment.png">}} {{<figure class="book-rating" src="/posts/images/books/book-rating-parchment-fadeout.png">}} 
+	(How Books are rated?)
+](/posts/about-my-book-reviews#content) -- **Genre**: Science Fiction
 
 Buy: [Paperback](https://amzn.to/3obJDmP) | [Kindle](https://amzn.to/3CRGwEx) | [Audible](https://amzn.to/2Y9zAnv)
 
