@@ -7,7 +7,7 @@ draft: true
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
-{{<figure src="/posts/images/books/no-cover.png" caption="No cover available yet." link="/posts/book-review-metro-2033-dmitry-glukhovsky/#content" >}}
+{{<figure src="/posts/images/books/reviews/metro-2033/metro-2033-cover.jpg" caption="Metro 2033 (Novel) Cover Image" link="/posts/book-review-metro-2033-dmitry-glukhovsky/#content" >}}
 
 <!--more-->
 
@@ -22,7 +22,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ](/posts/about-my-book-reviews#content) -- **Genre**: Science Fiction
 
 _Buy (via Referral):_ 
-[Paperback](https://www.amazon.com/Metro-2033-Dmitry-Glukhovsky-ebook/dp/B003774XKG/) | [Hardcover](https://www.amazon.com/Metro-2033-Dmitry-Glukhovsky-ebook/dp/B003774XKG/) | [Kindle](https://www.amazon.com/Metro-2033-Dmitry-Glukhovsky-ebook/dp/B003774XKG/) |  [Audible](https://www.amazon.com/Metro-2033-Dmitry-Glukhovsky-ebook/dp/B003774XKG/)
+[Paperback](https://amzn.to/3JrZOFN) | 
+[Hardcover](https://amzn.to/3QanUIU) | 
+[Kindle](https://www.amazon.com/Metro-2033-Dmitry-Glukhovsky-ebook/dp/B003774XKG/) | 
+[Audible](https://amzn.to/49MD5iF)
 
 Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.
 
