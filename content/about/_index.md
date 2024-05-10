@@ -10,7 +10,7 @@ date: 2024-04-05T08:07:23+02:00
 
 Hi there :wave:,
 
-My nickname is Ian Bog'Ste.
+My *Pen name* is Ian Bog'Ste.
 
 You'll have to know that I am a seasoned Software Development / Engineering Manager, having a strong Customer focus, with over 10 years of experience building Cloud Web and Enterprise-scale Applications in cross-industry (Financial Services, Retail, Automotive, Manufacturing and Public Sector) landscapes.
 
@@ -26,7 +26,7 @@ Passionate about Programming, Science, Technology (in general) and everything In
 
 **Hobbies or other Interests**:
 
-[Photography](https://gram.social/bogste), Video Games (PC), Reading (SyFy, Fantasy and Non-Fiction) and Poker Strategy
+[Photography](https://gram.social/bogste), Reading (mostly Science-Fiction, Fantasy and Non-Fiction), Video Games (PC, XSX) and Poker Strategy.
 
 ## Professional Experience
 Interested in my Professional background?
