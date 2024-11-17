@@ -1,6 +1,6 @@
 ---
 title: "Book Review: Metro 2033"
-description: 
+description: My short review of the first Novel in the Metro book series by Dmitry Glukhovsky.
 date: 2024-04-21T21:53:42+03:00
 publishDate: 2024-04-21T21:53:42+03:00
 draft: false
