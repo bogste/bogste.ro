@@ -2,7 +2,7 @@
 title: "The evolution to Cloud Operations: engineering for resilience"
 description: An article about my research on Cloud Operations Engineering, and how it can be a catalyst for resilience in any modern enterprise which makes use of the Cloud.
 date: 2024-11-17T21:17:21+02:00
-publishDate: 2025-02-03T16:10:21+02:00
+publishDate: 2025-03-02T16:10:21+02:00
 draft: false
 ---
 {{<figure src="/posts/images/evolution-to-cloudops/evolution-to-cloudops-cover.jpg" caption="Generated with DALL-E AI on [Microsoft Copilot](https://copilot.microsoft.com/shares/UCkkrdbgovtb6yVok5HyX)" link="/posts/evolution-to-cloudops-engineering-resilience/#content">}}
@@ -413,7 +413,7 @@ Remedial actions included:
 - **Disaster Recovery**: Azure Site Recovery reduced RTO from 4 hours to 15 minutes[17](https://igcloudops.com/case-studies/cga-strategy-azure-infrastructure-optimisation).
     
 
-**Outcomes**
+**Results**
 
 - **45% Cost Reduction**: Achieved within three months via reserved instances and rightsizing.
     
@@ -458,7 +458,7 @@ NetApp deployed its Cloud Ops platform with:
     
 - **Predictive Scaling**: Kubernetes clusters auto-adjusted based on OpenTelemetry metrics, avoiding $780,000 in monthly overprovisioning.
     
-**Outcomes**
+**Results**
 
 - **30% Faster Compliance**: Automated SOC2 audits via Terraform policies.
     
