@@ -25,7 +25,7 @@
     <h4>{{ $categoryPortfolioDesc }}</h4>
   {{ end }}
 
-  {{ range first 4 $pages }}
+  {{ range first 5 $pages }}
     {{ if in .Site.Params.mainSections "portfolio" }}
       
       {{ partial "portfolio/item" .}}
