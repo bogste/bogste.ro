@@ -1,5 +1,5 @@
 baseURL = "https://www.bogste.ro"
-languageCode = "en-us"
+locale = "en-us"
 theme = "personal-web"
 
 title = "Ian Bog'Ste - Personal Website"
@@ -122,7 +122,7 @@ googleAnalytics = "G-YJLC0DJ1QV"
     respectDoNotTrack = true
     useSessionStorage = true
 
-  [privacy.twitter]
+  [privacy.x]
     disable = false
     enableDNT = true
     simple = false
