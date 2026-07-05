@@ -25,7 +25,7 @@ In my context, managing a Service Offering and leading teams as part of a Shared
 
 However, the past two years or so have shown me that the status quo will not persist for long: with the recent advent of AI permeating all functions and affecting process and service delivery, the trend of adoption of AI Ops will no longer mean excuses for most executives to defer the switch towards outcomes. One of the main benefits of AI Ops is that it can create transparency across the organization, showing where the bottlenecks sit in the value chain. And it all begins from how procurement exercises the new managed service contracts.
 
-*Note: This opinion piece was [co-researched](https://copilot.microsoft.com/shares/tasks/Ef63TmXBnayVxwX7r3Bds) and co-edited using Artificial Intelligence. The foundational ideas are my own.*
+*Transparency Note: This opinion piece was [co-researched](https://copilot.microsoft.com/shares/tasks/Ef63TmXBnayVxwX7r3Bds) and [co-edited](https://copilot.microsoft.com/shares/1ECfXDnk6eh1aTGYgUyMN) using artificial intelligence. The foundational ideas are my own.*
 
 
 ## 1. Introduction: The Managed Services Illusion
@@ -118,44 +118,49 @@ There is a mismatch here that is blocking a lot of value: MSPs are ready to deli
 
 ## **4. A Hard Truth: Procurement and IT Cannot Unilaterally Buy Outcomes**
 
-While traditional MSP are showing a decline, with most aiming to align technical delivery with business value today, historically, IT services procurement has become a self-limiting factor. It ended-up wrongly focusing on cost minimization and operational stability at the expense of innovation, agility and business alignment. 
-The new paradigm demands cross-functional and cross-organizational collaboration across procurement, IT, finance, legal, operations and business units, to design, measure and govern contracted outcome-based services.
+While [traditional MSP operating models are showing a decline](https://www.tsia.com/blog/pricing-strategy-in-tech-services) today, with most aiming to align service delivery with business value, historically, (IT) services procurement ended up frequently misaligned; it may have wrongly focused on cost minimization and operational stability at the expense of innovation, agility, and business resilience. 
+
+The new paradigm demands cross-functional and cross-organizational collaboration across procurement, IT, finance, legal, operations, and business units, to design, measure, and govern contracted outcome-based services. ITIL (v4) even makes this a requirement for achieving shared outcomes.
+
+Before we explore the new way, let us first take a brief look at two historical areas that may have largely contributed to this misalignment.
 
 ### **4.1 Procurement’s Cost Obsession Is Outdated**
 
-Procurement-led RFPs for managed services have wrongly focused on cost minimization, standardization and risk avoidance. Please do not get me wrong, these resilience-oriented objectives are important but when combined with over-specified RFPs, they often result in contracts that prioritize operational stability over innovation, agility and business alignment. As a consequence, MSP have also adopted new behaviors: they positioned themselves as a governance layer, sometimes overstating the complexity of services procurement to justify their fees. In a mature organization, procurement, legal, IT and business teams may already have the capabilities to manage service provider relationships effectively. Cost-plus pricing is declining, yet procurement teams still cling to it.
+Procurement-led RFPs for managed services have focused too much on cost minimization, standardization, and risk avoidance. Please do not get me wrong; these resilience-oriented objectives are important, but when combined with over-specified RFPs, they often result in contracts that prioritize operational stability over innovation, adaptability, and business alignment. Such RFPs show up even today in the public sector tender efforts.
 
-Outcome-based services need new thinking patterns: a focus on flexibility, a shared risk model, and an openness towards innovation and continuous improvement. 
+As a consequence, MSPs have also adopted new behaviors: they positioned themselves as a governance layer, sometimes overstating the complexity of services procurement to justify their fees. In a mature organization, procurement, legal, IT, and business teams may already have the capabilities to manage service provider relationships effectively. Cost-plus pricing is declining, yet procurement teams still cling to it.
+
+Consuming outcome-based services needs new thinking patterns: a focus on flexibility, a shared accountability and risk model, and an openness towards innovation and continuous improvement. 
 
 ### **4.2 IT Cannot Own Outcomes It Does Not Control**
 
-The other responsible party for the perpetuating status quo, inside the modern organization, was the IT function. IT departments tend to negotiate SLAs for uptime and ticket closure, however true outcomes depend on factors beyond their control:
- - Uptime depends on the robustness of business processes.
- - Performance depends on the product teams.
- - Resilience depends on a sound business architecture and risk management.
+The other responsible party for the now declining status quo, inside the service-consuming organization, may have been the IT function. IT departments tend to negotiate SLAs for uptime and ticket closure; however, business outcomes depend on factors beyond their control. For example:
+ - Uptime depends on the robustness of business processes, integrated across the organization.
+ - Performance depends on the product teams, not only the technical infrastructure.
+ - Business resilience depends on sound business architecture and risk management.
 
-When it comes to ITIL, the guidance is even clearer: outcomes are delivered through the integration and collaboration of people, processes, partners and technology. Your IT function alone cannot deliver them.
+When it comes to ITIL (v4), the guidance is even clearer: outcomes are delivered through the integration and collaboration of people, processes, partners, and technology. Your IT function alone cannot deliver them.
 
 ### **4.3 Cross-Functional Alignment Is Mandatory**
 
 Well-defined outcome-based managed services [require cross-functional collaboration, KPMG notes](https://assets.kpmg.com/content/dam/kpmgsites/ch/pdf/pathway-to-success-in-outcome-based-contracting.pdf). It all involves shared accountability, and a desire for continuous improvement. At a minimum, governance frameworks must define roles, responsibilities, and escalation paths, ensuring that all stakeholders are aligned and empowered to deliver on contractual commitments.
 
-In other words, business stakeholders must define the desired outcomes, finance must assess the impact on budgets and revenue recognition, legal must ensure contract enforceability, and (IT) operations must be a true partner to service providers to deliver the promised results.
+In other words, business stakeholders must define the desired outcomes, finance must assess the impact on budgets and revenue recognition, legal must ensure contract enforceability, and IT operations have to become a serious partner towards external service providers, to achieve the promised results.
 
-#### **4.3.1 Operational Implications for Technology Organizations**
+#### **4.3.1 Implications for Technology Organizations**
 
-Mostly under the same paradigm, delivering on outcome-based contracts in technology organization requires the alignment of multiple operational disciplines:
+Mostly under the same paradigm, delivering on outcome-based contracts in technology organizations requires the alignment of multiple technical and operational disciplines:
 
  - Site Reliability Engineering (SRE): Focuses on ensuring reliability, SLOs, incident response and related automation.
- - Developer Operations (DevOps): Drives the delivery flow, CI/CD automation, and infrastructure as code (IaC).
+ - Developer Operations (DevOps): Drives the delivery flow, CI/CD automation, and Infrastructure-as-Code (IaC).
  - Financial Operations (FinOps): Brings financial visibility, cost optimization and accountability to cloud operations.
- - Security Operations (SecOps): Integrates cyber and information security hardening principles into the managed services framework.
+ - Security Operations (SecOps): Integrates cyber and information security hardening principles into the managed services framework, and drives the operating model.
 
-While each discipline operates under a different "north star", their collaboration is essential for achieving measurable outcomes in uptime, performance, cost efficiency and cybersecurity.
+While each discipline operates under a different "north star," their continuous collaboration is essential for achieving measurable outcomes in uptime, performance, cost efficiency, and cybersecurity.
 
 --
 
-Today, most organizations are nowhere close to reaching this internal alignment. They treat outcome-based pricing just as another procurement exercise, not an organizational transformation. The result is predictable: outcome-driven services are perceived as having less or unclear value, and even as a failure.
+Today, most technology organizations are nowhere close to reaching this internal alignment. They treat outcome-based pricing as just another procurement exercise, not an organizational transformation. The result is moderately predictable: outcome-driven services are often perceived as having less or unclear value, and even as a failure.
 
 ---
 
